@@ -1,4 +1,4 @@
-const XKeys = require('./../index.js');
+const XKeys = require('./../xkeys.js');
 
 var xKeysPanel = new XKeys(1029);
 console.log("Panel: " + xKeysPanel.deviceType.identifier);
